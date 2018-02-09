@@ -1,0 +1,464 @@
+
+
+*{margin:0;padding:0;outline:0;}
+header{background:#2a2e33;
+min-height:100px;
+    overflow: hidden;
+}
+@font-face{font-family:ARDECODE;
+src:url('fonts/ARDECODE.ttf') format('TrueType');
+    
+}
+@font-face{font-family:Droid Sans Regular;
+src:url('fonts/Droid Sans Regular.ttf') format('TrueType');
+    
+}
+@font-face{font-family:DroidSans-BOLD;
+src:url('fonts/DroidSans-BOLD.ttf') format('TrueType');
+    
+}
+@font-face{font-family:Quicksand_Light;
+src:url('fonts/Quicksand_Light.otf') format('OpenType');
+    
+}
+.wrapper{
+width:80%;
+margin:0 auto;
+}
+#select_room_type {
+}
+
+#package {
+}
+
+#roomtypetitle {
+}
+
+#testimonial {
+}
+
+.logo{width:350px;
+    height:20px;
+    margin-left:100px;
+    padding-top:32px;
+}
+
+.subtitle {color:white;
+    
+}
+
+.menubar{float:right;
+    
+    
+    margin-top:-15px;
+    margin-left:100px;
+    margin-left:200px;
+
+   
+}
+.menubar ul{margin:0px;
+padding:0px;
+list-style-type:none;
+margin-right:150px;
+}
+.menubar ul li{float:left;
+}
+.menubar ul li a{text-decoration:none;
+color:white;
+text-transform:uppercase;
+font-size:16px;
+padding:10px 20px;
+display:block;
+   margin-bottom:25px;
+    font-family:DroidSans-BOLD;
+}
+#banner{background:#00ccff;
+min-height:450px;
+overflow:hidden;
+padding-top:10px;
+overflow:hidden;
+    appearance:none;
+}
+
+.banner_caption {
+    width:745px;
+    height:245px;
+    text-align:center;
+    margin: 0 auto;
+    padding-top:70px;
+    
+}
+.facilities1{font-size:25px;
+padding-top:20px;
+padding-top:40px;
+padding-top:60px;
+    color:white;
+}
+.welcome.text {
+    font-style:Quicksand_Bold;
+    font-size:30px;
+    color:white;
+    display:in-line-block;
+    padding-bottom:25px;
+    position:relative;
+    border-bottom:2px dotted white;
+ 
+    
+    
+}
+.welcome.text:before{}
+
+
+.title {
+color:white;
+    font-size:60px;
+    border-bottom:2px dotted white;
+    padding-top:20px;
+}
+.facilities{color:white;
+    color:white;
+    font-size:40px;
+    padding-top:60px;
+    font-family:Arial;
+    
+    
+}
+
+.viewpricing {width:1000px;
+height:90px;
+    position:absolute;
+    left:0;
+    right:0;
+    margin:0 auto;
+    padding-top:30px;
+    margin-top:70px;
+   
+    
+
+background:#2A2E33;;
+color:yellow;
+    
+
+}
+
+.formgroup{float:left;
+    margin-left:20px;
+    border-radius:30px;
+    
+    
+    
+    }
+#select_room_type{
+
+appearance:none;
+-moz-appearance:none;
+-webkit-appearance:none;
+
+background-image: url(img/icon2.png);
+background-repeat: no-repeat;
+    background-position:5%;
+    padding-left:11%;
+
+    
+}
+.form group label{
+    font-family:Quicksand_Light;
+    font-weight:400px;
+    color:#c0bd0b;
+    font-size:18px;
+    
+    
+    
+}
+
+.arrival {
+}
+
+.viewprices {margin-top:15px;
+    width:150px;
+    height:30px;
+    color:#2A2E33;
+    background:yellow;
+    font-weight:bold;
+    border-radius:10px;
+    border:none;
+    float:left;
+    font-weight:bold;
+    margin-top:18px;
+    
+}
+
+
+.datestyle{
+    width:230px;
+    height:45px;
+    border-radius:10px;
+    border:none;}
+#package{background:url(img/packagesbackground.jpg);}
+.packagebookingtitle {
+    width:1165px;
+    height:107px;
+    text-align:center;
+    margin:95px auto;
+    background:url(img/packagesbackground.jpg);
+    margin-top:-10px;
+    padding-top:20px;
+   
+    
+}
+.packagebookingtitle h1{font-size:60px;
+    color:#2a2e33;margin:0px auto;
+    padding-top:60px;
+    padding-top:80px;
+	font-family:ARDECODE;
+}
+.packagebookingtitle p{font-size:14px;
+    color:#2a2e33;}
+
+  
+    
+
+
+.packageslider {background: url("img/packagesbackground.jpg");
+    height:230px;
+    width:1100px;
+    margin:0 auto;
+   
+   
+    
+    
+   
+    
+}
+.rightindicator{float:right;
+    margin-top:7%;
+   
+}
+.leftindicator{float:left;
+    margin-top:7%;
+   
+}
+.packagebookingtitle h1{
+    
+}
+.packagebookingtitle p{
+    
+    
+}
+
+
+
+.singleitem{
+    float:left;
+    width:225px;
+    height:215px;
+    background:white;
+    border:3px solid #2a2e33;
+    border-radius:130px;
+    margin-left:6%;
+}
+#roomtype{background:url(img/roomtypebackground.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+min-height:795px;}
+
+.roomtypetitle{
+    
+    margin:0 auto;
+    width:455px;
+    height:75px;
+    font-family:ARDECODE;
+    text-align:center;
+}
+.roomtypetitle h1{font-size:45px;
+    margin:0 auto;
+    padding-top:35px;
+    
+}
+
+
+.allroomtype{
+    width:1190px;
+    height:580px;
+    margin:45px auto;
+}
+
+.singletype {
+    width:380px;
+    height:353px;
+    float:left;
+    text-align: center;
+    margin-left:12px;
+}
+.facilities {margin-top:-20%;}
+
+.roomimage {
+}
+
+.roomdatatype {
+}
+
+.intro {
+}
+#testimonial{
+    
+    height:250px;
+    background:#E7CB2C;
+    margin:0 auto;
+    margin-top:-43px;
+    
+   
+}
+
+.testomonialdata{
+    width:875px;
+    height:95px;
+    float:left;
+    padding-top:45px;
+    
+    color:white;
+    font-family:arial;
+    margin:0 auto;
+    text-align:center;
+    
+}
+.testomonialdata h1{
+    font-size:36px;
+    font-weight:bold;
+    margin:0 auto;
+    margin-left:200px;
+    
+    
+     
+
+    
+    
+}
+
+
+
+.comments {color:white;
+    font-weight:18pt;
+    font-size:18px;
+    margin:0 auto;
+    margin-left:200px;
+    
+    
+    
+}
+
+.personsimage img{float:left;
+    
+    margin-left:1200px;
+    padding-bottom:100px;
+    margin-top:-190px;
+    
+}
+footer{background-color:#333333;
+    height:500px;
+    
+}
+.footerthing{
+    
+   
+width:1160px;height:300px;padding-top:30px;
+   background-color:#333333;
+    
+    
+}
+
+.hotelinfo{color:#7d7d7d;
+    width:225px;
+    height:200px;
+    float:left;
+    margin:0 auto;
+    margin-left:150px;
+    padding-top:30px;
+}
+    
+.hotelinfo h1{
+    font-size:15px;
+    color:white;
+    
+}
+
+.hoteldescription {
+}
+
+.hotelnews {width:200px;
+    height:200px;
+    color:white;
+    float:left;
+    margin:0 auto;
+    margin-left:150px;
+    padding-top:15px;
+    
+}
+.hotelnews h1{font-size:15px;}
+}
+
+.newsdesc {
+}
+
+.joinhotel {width:200px;
+    height:350px;
+    color:white;
+    float:left;
+    overflow: hidden;
+    margin:0 auto;
+    margin-left:150px;
+    line-height:20px;
+}
+.joinhotel h1{font-size:15px;
+padding-top:15px;}
+
+.hoteljoin {color:#7d7d7d;
+}
+.newsdesc{color:#7d7d7d;}
+.bottomform {padding-top:300px;
+margin-left:880px;}
+
+
+.Readmore{margin-left:px;
+    margin-top:18px;
+    float:left;
+    background:#E7CB2C;
+    padding:5px 0px;
+   border-radius:10px;
+    width:90px;
+    height:30px;
+    font-weight:bold;
+    
+}
+
+.membersarea{width:210px;
+    height:200px;
+    color:white;
+    float:right;
+    margin-left:500px;
+    margin-bottom:250px;
+    margin-top:-350px;
+    
+}
+.membersarea h1{font-size:15px;
+    margin-left:200px;
+    padding-top:-100px;
+    
+}
+.membersarea form{margin-left:200px;
+border-radius:20px;}
+.username {background-color:transparent;
+    
+    
+
+}
+
+.LogIn {background:#E7CB2C;
+    color:black;
+    border-radius:10px;
+    width:90px;
+    height:30px;
+    text-transform:uppercase;
+    font-weight:bold;
+    font-size:11px;
+}
